@@ -1,0 +1,5 @@
+gender_type,gender,$NOM_PRONOUN,$ACC_PRONOUN,$POSS_PRONOUN
+binary,he,he,him,his
+binary,she,she,her,her
+non-binary,they,they,them,their
+non-binary,xe,xe,xem,xyr

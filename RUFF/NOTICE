@@ -1,0 +1,11 @@
+The files:
+- pronouns.csv
+are derived from: https://github.com/tamannahossainkay/misgendered-backend.
+
+Please see the license here: https://github.com/tamannahossainkay/misgendered-backend?tab=readme-ov-file.
+
+The files:
+- templates/eo_task.tsv
+are generated using: https://github.com/uds-lsv/robust-pronoun-fidelity.
+
+Please see the license here: https://github.com/uds-lsv/robust-pronoun-fidelity?tab=AGPL-3.0-1-ov-file#readme.

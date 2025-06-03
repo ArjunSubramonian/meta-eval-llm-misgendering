@@ -1,0 +1,5 @@
+gender_type,gender,nom,acc,pos_dep,pos_indep,ref
+binary,he,he,him,his,his,himself
+binary,she,she,her,her,hers,herself
+non-binary,they,they,them,their,theirs,themself
+non-binary,xe,xe,xem,xyr,xyrs,xemself
